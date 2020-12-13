@@ -110,7 +110,7 @@ Learnable Deformations Among 3D Shapes</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Geometry-Learning-Papers/blob/master/dg(61).pdf" style="text-decoration:none;">GSIR: Generalizable 3D Shape Interpretation and Reconstruction</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Geometry-Learning-Papers/blob/master/dg(62).pdf" style="text-decoration:none;">DR-KFS: A Dierentiable Visual Similarity Metric for 3D Shape Reconstruction</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Geometry-Learning-Papers/blob/master/dg(62).pdf" style="text-decoration:none;">DR-KFS: A Differentiable Visual Similarity Metric for 3D Shape Reconstruction</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Geometry-Learning-Papers/blob/master/dg(63).pdf" style="text-decoration:none;">Discrete Point Flow Networks
 for Efficient Point Cloud Generation</a></li>                              
